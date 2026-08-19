@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://nagamohr.com/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://nagamohr.com/empresa.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/productos.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/posibilidades.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/medios-productivos.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/galeria.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/certificados.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/metrologia.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/noticias.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://nagamohr.com/contacto.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+</urlset>
